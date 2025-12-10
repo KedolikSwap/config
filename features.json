@@ -1,5 +1,5 @@
 {
-  "swapEnabled": false,
+  "swapEnabled": true,
   "poolsEnabled": true,
   "liquidityEnabled": true,
   "maintenanceMode": false,
@@ -10,5 +10,6 @@
     "type": "info"
   }
 }
+
 
 
