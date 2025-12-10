@@ -1,6 +1,6 @@
 {
   "swapEnabled": false,
-  "poolsEnabled": true,
+  "poolsEnabled": false,
   "liquidityEnabled": true,
   "maintenanceMode": false,
   "maintenanceMessage": "Kedolik Swap is currently undergoing maintenance. Please check back shortly.",
@@ -10,6 +10,7 @@
     "type": "info"
   }
 }
+
 
 
 
