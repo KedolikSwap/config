@@ -22,6 +22,11 @@ Contains the list of tokens displayed in the swap interface.
       "logoURI": "https://example.com/logo.png",
       "coingeckoId": "coingecko-id",
       "enabled": true
+       "display": {
+        "swap": true,
+        "pools": true,
+        "staking": false,
+        "locker": false
     }
   ]
 }
